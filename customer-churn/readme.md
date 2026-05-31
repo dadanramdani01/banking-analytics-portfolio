@@ -179,4 +179,4 @@ Based on the analysis, the bank should:
 # 👨‍💻 Author
 
 **Dadan Ramdani**
-Physics Student at IPB University | Aspiring Data Analyst & Biomedical Data Scientist
+Physics Student at IPB University | Aspiring Data Analyst
