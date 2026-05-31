@@ -1,16 +1,11 @@
-# 📈 Marketing Campaign Analytics for Banking Deposit Conversion
-
-End-to-end marketing campaign analytics project to identify campaign success factors, optimize customer targeting, and improve deposit conversion using **Python, Inferential Statistics, Customer Segmentation (K-Means), and Power BI**.
-
----
-
-# 📌 Business Problem
+# Research Plan
+## Business Problem
 
 Marketing campaigns in banking are often inefficient due to poor customer targeting, resulting in low conversion rates and unnecessary operational costs. Banks frequently contact customers without fully understanding which profiles are more likely to respond positively, leading to wasted resources and reduced campaign effectiveness.
 
 ---
 
-# 🎯 Project Objective
+## Project Objective
 
 This project aims to identify the key factors influencing deposit subscription success and optimize future marketing strategies using customer analytics, inferential statistics, and customer segmentation.
 
@@ -18,7 +13,7 @@ The analysis focuses on understanding customer responsiveness, identifying high-
 
 ---
 
-# 🔬 Research Plan
+## Research Plan
 
 ## Business Questions
 
